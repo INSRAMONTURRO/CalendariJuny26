@@ -140,6 +140,17 @@ function App() {
       
       const isSelected = selectedDayISO === isoDate;
 
+      // Check for special badges
+      const hasNotes = dayEvents.some(ev => 
+        ev.description.toLowerCase().includes('entrada notes') || 
+        ev.description.toLowerCase().includes('límit entrada notes')
+      );
+      const hasJuntes = dayEvents.some(ev => 
+        ev.description.toLowerCase().includes('avaluació final') || 
+        ev.description.toLowerCase().includes('junta d\'avaluació') ||
+        ev.description.toLowerCase().includes('avaluació ordinària')
+      );
+
       // Collect unique groups for the dots
       const groupsPresent = new Set();
       dayEvents.forEach(ev => groupsPresent.add(getGroupClass(ev.group)));
@@ -151,6 +162,12 @@ function App() {
           onClick={() => setSelectedDayISO(isoDate === selectedDayISO ? null : isoDate)}
         >
           <span className="day-number">{d}</span>
+          
+          <div className="badges-container">
+            {hasNotes && <span className="day-badge notes">Notes</span>}
+            {hasJuntes && <span className="day-badge juntes">Juntes</span>}
+          </div>
+
           <div className="dots-container">
             {Array.from(groupsPresent).map(groupClass => (
               <div key={groupClass} className={`dot ${groupClass}`}></div>
