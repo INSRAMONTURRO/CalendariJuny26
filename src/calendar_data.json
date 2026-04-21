@@ -105,6 +105,13 @@
     "description": "MATRÍCULA ALUMNES 4 ESO PREINSCRIPCIÓ BATXILLERAT CURS 2025-26"
   },
   {
+    "id": "ESO-19",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "25 al 3 juliol",
+    "description": "MATRÍCULA ALUMNES PREINSCRIPCIÓ ESO CURS 2025-26"
+  },
+  {
     "id": "ESO-20",
     "group": "ESO",
     "month": "Juliol",
@@ -133,6 +140,20 @@
     "description": "10  hores Data límit entrada notes 3a avaluació 1r Batxillerat a Ieduca"
   },
   {
+    "id": "1 BTX-1",
+    "group": "1 BTX",
+    "month": "Maig",
+    "date": "29",
+    "description": "Tots els alumnes han de tenir comentaris i informació dels continguta que ha de recuperar si és el cas"
+  },
+  {
+    "id": "1 BTX-2",
+    "group": "1 BTX",
+    "month": "Maig",
+    "date": "29",
+    "description": "Es poden entrar notes Avaluació Final Ordinària BTX a Esfer@"
+  },
+  {
     "id": "1 BTX-3",
     "group": "1 BTX",
     "month": "Maig",
@@ -152,6 +173,13 @@
     "month": "Juny",
     "date": "7",
     "description": "23 hores Data límit entrada notes Avaluació Final Ordinària 1r Batxillerat a Esfer@"
+  },
+  {
+    "id": "1 BTX-6",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "7",
+    "description": "Tots els alumnes han de tenir comentaris i informació dels continguta que ha de recuperar si és el cas"
   },
   {
     "id": "1 BTX-7",
@@ -203,6 +231,13 @@
     "description": "23 hores Data límit entrada notes Avaluació Final Extraordinària 1r Batxillerat a Esfer@"
   },
   {
+    "id": "1 BTX-14",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "14",
+    "description": "Tots els alumnes han de tenir comentaris"
+  },
+  {
     "id": "1 BTX-15",
     "group": "1 BTX",
     "month": "Juny",
@@ -240,9 +275,9 @@
   {
     "id": "2 BTX-0",
     "group": "2 BTX",
-    "month": "Maig",
-    "date": "29 al 30",
-    "description": "PREPARACIÓ PAU SELECTIVITAT I RECUPERACIONS"
+    "month": "Abril",
+    "date": "29",
+    "description": "30 PREPARACIÓ PAU SELECTIVITAT I RECUPERACIONS"
   },
   {
     "id": "2 BTX-1",
@@ -257,6 +292,20 @@
     "month": "Maig",
     "date": "4",
     "description": "Entrega de notes 3a avaluació a través d'Ieduca a les 10 h"
+  },
+  {
+    "id": "2 BTX-3",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "4",
+    "description": "Tots els alumnes han de tenir comentaris i informació dels continguts que ha de recuperar, si és el cas"
+  },
+  {
+    "id": "2 BTX-4",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "4",
+    "description": "Es poden entrar notes Avaluació Final Ordinària BTX a Esfer@"
   },
   {
     "id": "2 BTX-5",
@@ -292,6 +341,20 @@
     "month": "Maig",
     "date": "17",
     "description": "23 hores Data límit entrada notes Avaluació Final Ordinària 2n Batxillerat a Esfe@"
+  },
+  {
+    "id": "2 BTX-10",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "17",
+    "description": "Tots els alumnes han de tenir nota, els suspesos també !!!"
+  },
+  {
+    "id": "2 BTX-11",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "17",
+    "description": "Els alumnes suspesos han de tenir a comentaris informació dels continguts que han de recuperar !!!"
   },
   {
     "id": "2 BTX-12",
@@ -336,6 +399,13 @@
     "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
   },
   {
+    "id": "2 BTX-18",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "26",
+    "description": "DATA LÍMIT SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA 2n BTX !!!"
+  },
+  {
     "id": "2 BTX-19",
     "group": "2 BTX",
     "month": "Maig",
@@ -355,6 +425,13 @@
     "month": "Juny",
     "date": "7",
     "description": "23 hores Data límit entrada notes Avaluació Final Extraordinària 2n Batxillerat a Esfe@"
+  },
+  {
+    "id": "2 BTX-22",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "7",
+    "description": "Tots els alumnes han de tenir nota, els suspesos també !!!"
   },
   {
     "id": "2 BTX-23",
@@ -404,6 +481,13 @@
     "month": "Juny",
     "date": "17",
     "description": "DATA LÍMIT SIGNATURA AVALUACIÓ FINAL EXTRAORDINÀRIA 2 BTX"
+  },
+  {
+    "id": "2 BTX-30",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "17",
+    "description": "Creuament dades 2n BTX per preinscrits a CFGS"
   },
   {
     "id": "2 BTX-31",
@@ -469,6 +553,13 @@
     "description": "23 hores Data límit entrada notes 1a convocatòria a Esfer@ (Saga alum nat curriculum anterior FCT)"
   },
   {
+    "id": "CF-2",
+    "group": "CF",
+    "month": "Maig",
+    "date": "31",
+    "description": "Els alumnes suspesos han de tenir a comentaris dels continguts que ha de recuperar !!!"
+  },
+  {
     "id": "CF-3",
     "group": "CF",
     "month": "Juny",
@@ -502,6 +593,13 @@
     "month": "Juny",
     "date": "5",
     "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "CF-8",
+    "group": "CF",
+    "month": "Juny",
+    "date": "5",
+    "description": "(24-48 hores Càrrega alumnes aprovats RTA)"
   },
   {
     "id": "CF-9",
@@ -560,6 +658,13 @@
     "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ  Final 2a ordinària"
   },
   {
+    "id": "CF-17",
+    "group": "CF",
+    "month": "Juny",
+    "date": "19",
+    "description": "(24-48 hores Càrrega alumnes aprovats RTA)"
+  },
+  {
     "id": "CF-18",
     "group": "CF",
     "month": "Juny",
@@ -592,42 +697,42 @@
     "group": "PFI",
     "month": "Maig",
     "date": "26 a l'1",
-    "description": "PREINSCRIPCIÓ  CFGM CURS 2025-26 DL DM DX DJ DV DS DI"
+    "description": "PREINSCRIPCIÓ  CFGM CURS 2025-26"
   },
   {
     "id": "PFI-1",
     "group": "PFI",
     "month": "Juny",
     "date": "15",
-    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària PFI A L'APLICATIU PFI 1 2 3 4 5 6"
+    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària PFI A L'APLICATIU PFI"
   },
   {
     "id": "PFI-2",
     "group": "PFI",
     "month": "Juny",
-    "date": "Nota",
-    "description": "Tots els alumnes han de tenir comentaris !!! 7 8 9 10 11 12 13"
+    "date": "15",
+    "description": "Tots els alumnes han de tenir comentaris !!!"
   },
   {
     "id": "PFI-3",
     "group": "PFI",
     "month": "Juny",
     "date": "15",
-    "description": "Avaluació Final Ordinària PFI 14 15 16 17 18 19 20"
+    "description": "Avaluació Final Ordinària PFI"
   },
   {
     "id": "PFI-4",
     "group": "PFI",
     "month": "Juny",
     "date": "16",
-    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària PFI 21 22 23 24 25 26 27"
+    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària PFI"
   },
   {
     "id": "PFI-5",
     "group": "PFI",
     "month": "Juny",
     "date": "16 al 18",
-    "description": "RECLAMACIÓ NOTES Avaluació Final Ordinària PFI 28 29 30"
+    "description": "RECLAMACIÓ NOTES Avaluació Final Ordinària PFI"
   },
   {
     "id": "PFI-6",
@@ -649,6 +754,13 @@
     "month": "Juny",
     "date": "23",
     "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "PFI-9",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "23",
+    "description": "(24-48 hores Càrrega alumnes aprovats RTA)"
   },
   {
     "id": "PFI-10",
