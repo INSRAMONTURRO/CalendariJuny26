@@ -154,8 +154,8 @@ function App() {
             }
         }
         
-        // Match "juntes" prefix or similar as requested
-        if (desc.includes('juntes') || desc.includes('junta d\'avaluació') || desc.includes('avaluació final') || desc.includes('avaluació ordinària')) {
+        // Match ONLY "juntes" or "junta" as requested, ignoring other terms
+        if (desc.includes('juntes') || desc.includes('junta')) {
             if (!juntesGroups.some(g => g.class === groupClass)) {
                 juntesGroups.push({ label: ev.group, class: groupClass });
             }
