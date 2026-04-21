@@ -1,0 +1,681 @@
+[
+  {
+    "id": "ESO-0",
+    "group": "ESO",
+    "month": "Maig",
+    "date": "26 a l'1",
+    "description": "PREINSCRIPCIÓ  CFGM CURS 2026-27"
+  },
+  {
+    "id": "ESO-1",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "7",
+    "description": "23 hores Data límit entrada notes 3a Avaluació ESO a iEduca"
+  },
+  {
+    "id": "ESO-4",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "8",
+    "description": "LliuramenT per email notes 3a Avaluació ESO"
+  },
+  {
+    "id": "ESO-5",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "08 al 12",
+    "description": "EXÀMENS RECUPERACIÓ TRIMESTRAL, SUFICIÈNCIA I MILLORA NOTA ESO ACLASSE.  CLASSES NORMALS"
+  },
+  {
+    "id": "ESO-6",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "14",
+    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària ESO a Esfer@"
+  },
+  {
+    "id": "ESO-8",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "15",
+    "description": "Avaluació Final Ordinària 4t  ESO"
+  },
+  {
+    "id": "ESO-9",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "16",
+    "description": "Avaluació Final Ordinària 1r i 3r  ESO"
+  },
+  {
+    "id": "ESO-10",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "17",
+    "description": "Avaluació Final Ordinària 2n  ESO"
+  },
+  {
+    "id": "ESO-11",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "18",
+    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària ESO. ENTREVISTES FAMILIES"
+  },
+  {
+    "id": "ESO-12",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "18 al 22",
+    "description": "RECLAMACIÓ NOTES Avaluació Final Ordinària ESO"
+  },
+  {
+    "id": "ESO-13",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "22",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Ordinària 2n ESO"
+  },
+  {
+    "id": "ESO-14",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "23",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "ESO-16",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "25",
+    "description": "Creuament dades 4 ESO per preinscrits a CFGM"
+  },
+  {
+    "id": "ESO-17",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "20 al 30",
+    "description": "MATRÍCULA ALUMNES 4 ESO CENTRE BATXILLERAT CURS 2025-26"
+  },
+  {
+    "id": "ESO-18",
+    "group": "ESO",
+    "month": "Juny",
+    "date": "20 al 30",
+    "description": "MATRÍCULA ALUMNES 4 ESO PREINSCRIPCIÓ BATXILLERAT CURS 2025-26"
+  },
+  {
+    "id": "ESO-20",
+    "group": "ESO",
+    "month": "Juliol",
+    "date": "11 al 23",
+    "description": "MATRÍCULA PRIMERA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "ESO-21",
+    "group": "ESO",
+    "month": "Juliol",
+    "date": "21 al 23",
+    "description": "MATRÍCULA SEGONA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "ESO-22",
+    "group": "ESO",
+    "month": "Juliol",
+    "date": "30 al 4",
+    "description": "MATRÍCULA TERCERA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "1 BTX-0",
+    "group": "1 BTX",
+    "month": "Maig",
+    "date": "29",
+    "description": "10  hores Data límit entrada notes 3a avaluació 1r Batxillerat a Ieduca"
+  },
+  {
+    "id": "1 BTX-3",
+    "group": "1 BTX",
+    "month": "Maig",
+    "date": "29",
+    "description": "12.30 h Entrega de notes 3a avaluacióa través d'Ieduca"
+  },
+  {
+    "id": "1 BTX-4",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "1 al 5",
+    "description": "EXÀMENS RECUPERACIÓ  i millora de nota ORDINÀRIA 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-5",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "7",
+    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària 1r Batxillerat a Esfer@"
+  },
+  {
+    "id": "1 BTX-7",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "8",
+    "description": "Avaluació Final Ordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-8",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "9",
+    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-9",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "09 al 11",
+    "description": "RECLAMACIÓ NOTES Avaluació Final Ordinària"
+  },
+  {
+    "id": "1 BTX-10",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "11",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Ordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-11",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "12",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "1 BTX-12",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "10 al 12",
+    "description": "EXÀMENS RECUPERACIÓ EXTRAORDINÀRIA 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-13",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "14",
+    "description": "23 hores Data límit entrada notes Avaluació Final Extraordinària 1r Batxillerat a Esfer@"
+  },
+  {
+    "id": "1 BTX-15",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "17",
+    "description": "Avaluació Final Extraordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-16",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "18",
+    "description": "10:00 hores Lliurament notes Avaluació Final Extraordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-17",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "18 al 22",
+    "description": "Reclamacions notes Avaluació Final Extraordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-18",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "22",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Extraordinària 1r Batxillerat"
+  },
+  {
+    "id": "1 BTX-19",
+    "group": "1 BTX",
+    "month": "Juny",
+    "date": "23",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL EXTRAORDINÀRIA"
+  },
+  {
+    "id": "2 BTX-0",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "29 al 30",
+    "description": "PREPARACIÓ PAU SELECTIVITAT I RECUPERACIONS"
+  },
+  {
+    "id": "2 BTX-1",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "3",
+    "description": "23 hores Data límit entrada notes 3a avaluació 2n Batxillerat a Ieduca"
+  },
+  {
+    "id": "2 BTX-2",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "4",
+    "description": "Entrega de notes 3a avaluació a través d'Ieduca a les 10 h"
+  },
+  {
+    "id": "2 BTX-5",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "6 al 12",
+    "description": "Exàmens de recuperació i millora de nota 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-6",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "13 al 29",
+    "description": "PREPARACIÓ PAU SELECTIVITAT I RECUPERACIONS"
+  },
+  {
+    "id": "2 BTX-7",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "5 al 13",
+    "description": "MATRÍCULA ALUMNES LLIURE PAU JUNY"
+  },
+  {
+    "id": "2 BTX-8",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "15 al 27",
+    "description": "MATRÍCULA ORDINÀRIA PAU JUNY"
+  },
+  {
+    "id": "2 BTX-9",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "17",
+    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària 2n Batxillerat a Esfe@"
+  },
+  {
+    "id": "2 BTX-12",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "18",
+    "description": "Avaluació Final Ordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-13",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "19",
+    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-14",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "20 al 21",
+    "description": "RECLAMACIÓ NOTES Avaluació final ordinària"
+  },
+  {
+    "id": "2 BTX-15",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "21",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Ordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-16",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "22",
+    "description": "RESOLUCIÓ DE LA RECLAMACIÓ"
+  },
+  {
+    "id": "2 BTX-17",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "26",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "2 BTX-19",
+    "group": "2 BTX",
+    "month": "Maig",
+    "date": "26 a l'1",
+    "description": "PREINSCRIPCIÓ CFGS CURS 2025-26"
+  },
+  {
+    "id": "2 BTX-20",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "1 al 5",
+    "description": "EXÀMENS RECUPERACIÓ EXTRAORDINÀRIA  2n Batxillerat amb els alumnes de 1r de BAT"
+  },
+  {
+    "id": "2 BTX-21",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "7",
+    "description": "23 hores Data límit entrada notes Avaluació Final Extraordinària 2n Batxillerat a Esfe@"
+  },
+  {
+    "id": "2 BTX-23",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "9 al 11",
+    "description": "Selectivitat"
+  },
+  {
+    "id": "2 BTX-24",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "10",
+    "description": "Avaluació Final Extraordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-25",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "11",
+    "description": "10:00 hores Lliurament notes Avaluació Final Extraordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-26",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "12",
+    "description": "Festa de graduació de 2n de Bat"
+  },
+  {
+    "id": "2 BTX-27",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "12 al 15",
+    "description": "RECLAMACIÓ NOTES Avaluació final extraordinària"
+  },
+  {
+    "id": "2 BTX-28",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "15",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Extraordinària 2n Batxillerat"
+  },
+  {
+    "id": "2 BTX-29",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "17",
+    "description": "DATA LÍMIT SIGNATURA AVALUACIÓ FINAL EXTRAORDINÀRIA 2 BTX"
+  },
+  {
+    "id": "2 BTX-31",
+    "group": "2 BTX",
+    "month": "Juny",
+    "date": "12 al 20",
+    "description": "MATRÍCULA PAP EXTRAORDINÀRIA EDUCACIÓ INFANTIL I EDUCACIÓ PRIMÀRIA"
+  },
+  {
+    "id": "2 BTX-32",
+    "group": "2 BTX",
+    "month": "Juliol",
+    "date": "16",
+    "description": "PROVA PAP EXTRAORDINÀRIA EDUCACIÓ INFANTIL I EDUCACIÓ PRIMÀRIA"
+  },
+  {
+    "id": "2 BTX-33",
+    "group": "2 BTX",
+    "month": "Juliol",
+    "date": "11 al 23",
+    "description": "MATRÍCULA PRIMERA TANDA CFGS CURS 2025-26"
+  },
+  {
+    "id": "2 BTX-34",
+    "group": "2 BTX",
+    "month": "Juliol",
+    "date": "21 al 23",
+    "description": "MATRÍCULA SEGONA TANDA CFGS CURS 2025-26"
+  },
+  {
+    "id": "2 BTX-35",
+    "group": "2 BTX",
+    "month": "Juliol",
+    "date": "22 al 24",
+    "description": "MATRÍCULA EXTRAORDINÀRIA PAU SETEMBRE"
+  },
+  {
+    "id": "2 BTX-36",
+    "group": "2 BTX",
+    "month": "Juliol",
+    "date": "30 al 4",
+    "description": "MATRÍCULA TERCERA TANDA CFGS CURS 2025-26"
+  },
+  {
+    "id": "2 BTX-37",
+    "group": "2 BTX",
+    "month": "Set",
+    "date": "3 al 5",
+    "description": "EXÀMENS PAU SETEMBRE"
+  },
+  {
+    "id": "CF-0",
+    "group": "CF",
+    "month": "Maig",
+    "date": "22",
+    "description": "Final classes  CF"
+  },
+  {
+    "id": "CF-1",
+    "group": "CF",
+    "month": "Maig",
+    "date": "31",
+    "description": "23 hores Data límit entrada notes 1a convocatòria a Esfer@ (Saga alum nat curriculum anterior FCT)"
+  },
+  {
+    "id": "CF-3",
+    "group": "CF",
+    "month": "Juny",
+    "date": "1",
+    "description": "Avaluació Final 1A CONVOCÀTORIA  (1R I 2N CFGM)"
+  },
+  {
+    "id": "CF-4",
+    "group": "CF",
+    "month": "Juny",
+    "date": "2",
+    "description": "10:00 hores Lliurament notes."
+  },
+  {
+    "id": "CF-5",
+    "group": "CF",
+    "month": "Juny",
+    "date": "2 al 4",
+    "description": "Reclamacions notes finals"
+  },
+  {
+    "id": "CF-6",
+    "group": "CF",
+    "month": "Juny",
+    "date": "4",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Ordinària CF"
+  },
+  {
+    "id": "CF-7",
+    "group": "CF",
+    "month": "Juny",
+    "date": "5",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "CF-9",
+    "group": "CF",
+    "month": "Juny",
+    "date": "5 al 11",
+    "description": "EXÀMENS RECUPERACIÓ 2A CONVOCATÒRIA."
+  },
+  {
+    "id": "CF-10",
+    "group": "CF",
+    "month": "Juny",
+    "date": "11",
+    "description": "23 hores Data límit entrada notes 2a convocatòria  a Esfer@."
+  },
+  {
+    "id": "CF-11",
+    "group": "CF",
+    "month": "Juny",
+    "date": "12",
+    "description": "Avaluació Final 2a ordinàrIa."
+  },
+  {
+    "id": "CF-12",
+    "group": "CF",
+    "month": "Juny",
+    "date": "15",
+    "description": "10:00 hores Lliurament notes 2a ordinària 2n CF Perruqueria, CF Estètica, CF Agrícola"
+  },
+  {
+    "id": "CF-13",
+    "group": "CF",
+    "month": "Juny",
+    "date": "15 al 17",
+    "description": "Reclamacions notes  Av Final 2a ordinària"
+  },
+  {
+    "id": "CF-14",
+    "group": "CF",
+    "month": "Juny",
+    "date": "17",
+    "description": "10:00 hores Data límit reclamació notes Avaluació  Final 2a ordinària 2n CF"
+  },
+  {
+    "id": "CF-15",
+    "group": "CF",
+    "month": "Juny",
+    "date": "18",
+    "description": "resolució de les reclamacions"
+  },
+  {
+    "id": "CF-16",
+    "group": "CF",
+    "month": "Juny",
+    "date": "19",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ  Final 2a ordinària"
+  },
+  {
+    "id": "CF-18",
+    "group": "CF",
+    "month": "Juny",
+    "date": "16 al 20",
+    "description": "MATRÍCULA ALUMNES CF INSTITUT CURS 2025-26 (alumnes de 1r a 2n i repetidors de 1r i 2n)"
+  },
+  {
+    "id": "CF-19",
+    "group": "CF",
+    "month": "Juliol",
+    "date": "11 al 23",
+    "description": "MATRÍCULA PRIMERA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "CF-20",
+    "group": "CF",
+    "month": "Juliol",
+    "date": "21 al 23",
+    "description": "MATRÍCULA SEGONA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "CF-21",
+    "group": "CF",
+    "month": "Juliol",
+    "date": "30 al 4",
+    "description": "MATRÍCULA TERCERA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "PFI-0",
+    "group": "PFI",
+    "month": "Maig",
+    "date": "26 a l'1",
+    "description": "PREINSCRIPCIÓ  CFGM CURS 2025-26 DL DM DX DJ DV DS DI"
+  },
+  {
+    "id": "PFI-1",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "15",
+    "description": "23 hores Data límit entrada notes Avaluació Final Ordinària PFI A L'APLICATIU PFI 1 2 3 4 5 6"
+  },
+  {
+    "id": "PFI-2",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "Nota",
+    "description": "Tots els alumnes han de tenir comentaris !!! 7 8 9 10 11 12 13"
+  },
+  {
+    "id": "PFI-3",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "15",
+    "description": "Avaluació Final Ordinària PFI 14 15 16 17 18 19 20"
+  },
+  {
+    "id": "PFI-4",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "16",
+    "description": "10:00 hores Lliurament notes Avaluació Final Ordinària PFI 21 22 23 24 25 26 27"
+  },
+  {
+    "id": "PFI-5",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "16 al 18",
+    "description": "RECLAMACIÓ NOTES Avaluació Final Ordinària PFI 28 29 30"
+  },
+  {
+    "id": "PFI-6",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "18",
+    "description": "10:00 hores Data límit reclamació notes Avaluació Final Ordinària 2n ESO"
+  },
+  {
+    "id": "PFI-7",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "19",
+    "description": "FI DE LES CLASSES"
+  },
+  {
+    "id": "PFI-8",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "23",
+    "description": "TANCAMENT I SIGNATURA ACTES AVALUACIÓ FINAL ORDINÀRIA"
+  },
+  {
+    "id": "PFI-10",
+    "group": "PFI",
+    "month": "Juny",
+    "date": "25",
+    "description": "Creuament dades PFI per preinscrits a CFGM"
+  },
+  {
+    "id": "PFI-11",
+    "group": "PFI",
+    "month": "Juliol",
+    "date": "11 al 23",
+    "description": "MATRÍCULA PRIMERA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "PFI-12",
+    "group": "PFI",
+    "month": "Juliol",
+    "date": "21 al 23",
+    "description": "MATRÍCULA SEGONA TANDA CFGM CURS 2025-26"
+  },
+  {
+    "id": "PFI-13",
+    "group": "PFI",
+    "month": "Juliol",
+    "date": "30 al 4",
+    "description": "MATRÍCULA TERCERA TANDA CFGM CURS 2025-26"
+  }
+]
