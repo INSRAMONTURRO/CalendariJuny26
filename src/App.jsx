@@ -241,12 +241,19 @@ function App() {
         </div>
 
         <div className="list-container">
-          <h3>
-            {selectedDayISO 
-              ? `Esdeveniments del ${new Date(selectedDayISO).getDate()} de ${monthNames[new Date(selectedDayISO).getMonth()].toLowerCase()}` 
-              : `Tots els esdeveniments de ${monthNames[currentMonth].toLowerCase()}`
-            }
-          </h3>
+          <div className="list-header-row">
+            <h3>
+              {selectedDayISO 
+                ? `Esdeveniments del ${new Date(selectedDayISO).getDate()} de ${monthNames[new Date(selectedDayISO).getMonth()].toLowerCase()}` 
+                : `Tots els esdeveniments de ${monthNames[currentMonth].toLowerCase()}`
+              }
+            </h3>
+            {selectedDayISO && (
+              <button className="reset-btn" onClick={() => setSelectedDayISO(null)}>
+                Veure tot el mes
+              </button>
+            )}
+          </div>
           
           {listToShow.length === 0 ? (
             <p style={{ color: '#94a3b8' }}>No hi ha esdeveniments per a la selecció actual.</p>
