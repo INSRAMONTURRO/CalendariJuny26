@@ -216,27 +216,34 @@ button:focus-visible {
 }
 
 .day-badge {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   font-weight: 800;
-  padding: 1px 4px;
-  border-radius: 4px;
+  padding: 0px 4px;
+  border-radius: 3px;
   text-align: center;
   text-transform: uppercase;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  border: 1px solid transparent;
 }
 
+/* Colors for specific groups in badges */
+.day-badge.eso { background-color: #e0f2fe; color: #0369a1; border-color: #bae6fd; }
+.day-badge.btx1 { background-color: #d1fae5; color: #047857; border-color: #a7f3d0; }
+.day-badge.btx2 { background-color: #ffedd5; color: #c2410c; border-color: #fed7aa; }
+.day-badge.cf { background-color: #f3e8ff; color: #7e22ce; border-color: #e9d5ff; }
+.day-badge.pfi { background-color: #ffe4e6; color: #be123c; border-color: #fecdd3; }
+
+/* Distinguish between Notes and Juntas slightly */
 .day-badge.notes {
-  background-color: #fef3c7;
-  color: #92400e;
-  border: 1px solid #fcd34d;
+  font-style: normal;
 }
 
 .day-badge.juntes {
-  background-color: #dcfce7;
-  color: #166534;
-  border: 1px solid #86efac;
+  font-weight: 900;
+  text-decoration: underline;
+  text-underline-offset: 1px;
 }
 
 .dots-container {

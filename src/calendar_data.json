@@ -67,21 +67,21 @@
     "group": "ESO",
     "month": "Juny",
     "date": "15",
-    "description": "Avaluació Final Ordinària 4t  ESO"
+    "description": "Junta Avaluació Final Ordinària 4t  ESO"
   },
   {
     "id": "ESO-10",
     "group": "ESO",
     "month": "Juny",
     "date": "16",
-    "description": "Avaluació Final Ordinària 1r i 3r  ESO"
+    "description": "Junta Avaluació Final Ordinària 1r i 3r  ESO"
   },
   {
     "id": "ESO-11",
     "group": "ESO",
     "month": "Juny",
     "date": "17",
-    "description": "Avaluació Final Ordinària 2n  ESO"
+    "description": "Junta  Avaluació Final Ordinària 2n  ESO"
   },
   {
     "id": "ESO-12",
@@ -228,7 +228,7 @@
     "group": "1 BTX",
     "month": "Juny",
     "date": "8",
-    "description": "Avaluació Final Ordinària 1r Batxillerat"
+    "description": "Junta Avaluació Final Ordinària 1r Batxillerat"
   },
   {
     "id": "1 BTX-9",
@@ -291,7 +291,7 @@
     "group": "1 BTX",
     "month": "Juny",
     "date": "17",
-    "description": "Avaluació Final Extraordinària 1r Batxillerat"
+    "description": "Junta Avaluació Final Extraordinària 1r Batxillerat"
   },
   {
     "id": "1 BTX-18",
@@ -417,7 +417,7 @@
     "group": "2 BTX",
     "month": "Maig",
     "date": "18",
-    "description": "Avaluació Final Ordinària 2n Batxillerat"
+    "description": "Junta Avaluació Final Ordinària 2n Batxillerat"
   },
   {
     "id": "2 BTX-13",
@@ -494,7 +494,7 @@
     "group": "2 BTX",
     "month": "Juny",
     "date": "10",
-    "description": "Avaluació Final Extraordinària 2n Batxillerat"
+    "description": "Junta Avaluació Final Extraordinària 2n Batxillerat"
   },
   {
     "id": "2 BTX-24",
@@ -627,7 +627,7 @@
     "group": "CF",
     "month": "Juny",
     "date": "1",
-    "description": "Avaluació Final 1A CONVOCÀTORIA  (1R I 2N CFGM)"
+    "description": "Junta Avaluació Final 1A CONVOCÀTORIA  (1R I 2N CFGM)"
   },
   {
     "id": "CF-5",
@@ -683,7 +683,7 @@
     "group": "CF",
     "month": "Juny",
     "date": "12",
-    "description": "Avaluació Final 2a ordinàrIa."
+    "description": "Junta Avaluació Final 2a ordinàrIa."
   },
   {
     "id": "CF-13",
@@ -711,7 +711,7 @@
     "group": "CF",
     "month": "Juny",
     "date": "18",
-    "description": "resolució de les reclamacions"
+    "description": "Resolució de les reclamacions"
   },
   {
     "id": "CF-17",
@@ -788,7 +788,7 @@
     "group": "PFI",
     "month": "Juny",
     "date": "15",
-    "description": "Avaluació Final Ordinària PFI"
+    "description": "Junta Avaluació Final Ordinària PFI"
   },
   {
     "id": "PFI-5",

@@ -140,16 +140,27 @@ function App() {
       
       const isSelected = selectedDayISO === isoDate;
 
-      // Check for special badges
-      const hasNotes = dayEvents.some(ev => 
-        ev.description.toLowerCase().includes('entrada notes') || 
-        ev.description.toLowerCase().includes('límit entrada notes')
-      );
-      const hasJuntes = dayEvents.some(ev => 
-        ev.description.toLowerCase().includes('avaluació final') || 
-        ev.description.toLowerCase().includes('junta d\'avaluació') ||
-        ev.description.toLowerCase().includes('avaluació ordinària')
-      );
+      // Identify groups with special events
+      const notesGroups = [];
+      const juntesGroups = [];
+
+      dayEvents.forEach(ev => {
+        const desc = ev.description.toLowerCase();
+        const groupClass = getGroupClass(ev.group);
+        
+        if (desc.includes('entrada notes') || desc.includes('límit entrada notes')) {
+            if (!notesGroups.some(g => g.class === groupClass)) {
+                notesGroups.push({ label: ev.group, class: groupClass });
+            }
+        }
+        
+        // Match "juntes" prefix or similar as requested
+        if (desc.includes('juntes') || desc.includes('junta d\'avaluació') || desc.includes('avaluació final') || desc.includes('avaluació ordinària')) {
+            if (!juntesGroups.some(g => g.class === groupClass)) {
+                juntesGroups.push({ label: ev.group, class: groupClass });
+            }
+        }
+      });
 
       // Collect unique groups for the dots
       const groupsPresent = new Set();
@@ -164,8 +175,16 @@ function App() {
           <span className="day-number">{d}</span>
           
           <div className="badges-container">
-            {hasNotes && <span className="day-badge notes">Notes</span>}
-            {hasJuntes && <span className="day-badge juntes">Juntes</span>}
+            {notesGroups.map(g => (
+                <span key={`notes-${g.class}`} className={`day-badge notes ${g.class}`}>
+                    Notes {g.label}
+                </span>
+            ))}
+            {juntesGroups.map(g => (
+                <span key={`juntes-${g.class}`} className={`day-badge juntes ${g.class}`}>
+                    Junta {g.label}
+                </span>
+            ))}
           </div>
 
           <div className="dots-container">
